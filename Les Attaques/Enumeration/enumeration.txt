@@ -1,0 +1,1 @@
+       Scanner les appareils IoT pour des attaques peut être motivé par plusieurs raisons, notamment l'identification des failles de sécurité et des vulnérabilités présentes dans ces appareils pouvant être exploitées pour accéder à des données sensibles ou compromettre le réseau..
