@@ -1,0 +1,1 @@
+Une attaque peut être soit active, soit passive , cette dernière est généralement basée sur la collecte de données qui sont généralement accessibles à tous. Dans le domaine de l'IoT, l'outil le plus couramment utilisé pour mener une attaque passive est Shodan.
