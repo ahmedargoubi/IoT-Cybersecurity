@@ -1,0 +1,3 @@
+Aujourd'hui nous pouvons utiliser notre téléphone mobile pour contrôler pratiquement tout  la maison . Quelques touches sur notre téléphone nous permettent de gérer la ventilation, d'ajuster le thermostat pour un confort optimal et de créer l'ambiance parfaite grâce à un éclairage contrôlé.
+Mais si tout dans la maison est contrôlé par téléphone alors n'importe  qui a compromis le téléphone peut également contrôler la maison !
+Dans cette démonstration,  j’ai utilisé AndroRAT pour créer un fichier APK malveillant que j’ai ensuite hébergé sur un serveur contrôlé par moi.
