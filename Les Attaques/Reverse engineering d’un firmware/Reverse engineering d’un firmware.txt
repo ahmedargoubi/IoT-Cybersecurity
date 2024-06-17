@@ -1,0 +1,1 @@
+Dans cette attaque,  j’ai concentré sur le firmware d'un routeur Wi-Fi très répandu, le Netgear D6000.
