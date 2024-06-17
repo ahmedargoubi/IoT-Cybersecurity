@@ -1,0 +1,10 @@
+L'ARP spoofing souvent utilisé dans les attaques de l'homme du milieu (MITM) permet à un attaquant d'intercepter le trafic entre deux parties en faisant croire à chacune qu'elle communique directement avec l'autre.
+
+1)	Lorsqu'un appareil cherche à communiquer avec un autre sur un réseau local il envoie une requête ARP pour obtenir son adresse MAC de l'appareil de destination 
+2)	L'attaquant en falsifiant les réponses ARP se place entre les deux appareils pour intercepter tout le trafic. Ainsi chaque appareil pense communiquer directement avec l'autre alors que tout le trafic passe par l'attaquant.
+3)	L'attaquant intercepte et peut modifier le trafic entre les appareils pour récupérer des informations sensibles.
+
+Dans mon scénario , j’ai une machine d'attaque Kali Linux et deux appareils IoT victimes sur le même réseau
+1.	La machine d'attaquent dont l'adresse IP est 192.168.23.128 et l'adresse MAC est 00:0c:29:bf:6c:59. Cette machine, exécutant le système Kali Linux, est utilisée pour mener l'attaque de l'homme du milieu.
+2.	La première victime, identifiée avec l'adresse IP 192.168.23.130 et l'adresse MAC 00:0c:29:32:72:C7. Cette machine est l'une des cibles de l'attaque.
+3.	La deuxième victime, ayant pour adresse IP 192.168.23.135 et pour adresse MAC 00 :0C :29 :91 :28 :2B. Cette machine est également une cible de l'attaque.
