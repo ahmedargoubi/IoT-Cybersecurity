@@ -1,0 +1,3 @@
+Dans l'environnement de l'Internet des objets (IoT) , le cryptage joue un rôle crucial dans la protection des données sensibles .
+En chiffrant ces données , je peux garantir leur intégrité et leur confidentialité empêchant ainsi toute personne non autorisée de les visualiser ou de les manipuler 
+J’ai utilisé deux méthodes de cryptage : le cryptage symétrique et le cryptage asymétrique. 
